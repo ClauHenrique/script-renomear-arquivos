@@ -1,4 +1,4 @@
-### Eu criei esse script para uso pessoal. Todo mês preciso fazer um relatorio onde tenho que inserir vários arquivos de imagem em documento. Assim fica mais fácil pra mim se o nome do arquivo for a hora em que eu os baixei em meu computador.
+### Eu criei esse script para uso pessoal. Todo mês preciso fazer um relatorio onde tenho que inserir vários arquivos de imagem em um documento. Assim fica mais fácil pra mim se o nome do arquivo for a hora em que eu os baixei em meu computador.
 ### Obs: Esse script é para meu caso, que é bem especifico
 
 ## como usar:
